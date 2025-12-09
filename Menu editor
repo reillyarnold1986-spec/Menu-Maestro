@@ -1,0 +1,20 @@
+<menu>
+  <!-- Define your menu structure here -->
+  <item name="Home" icon="Home" />
+  <item name="Analytics" icon="BarChart2">
+    <item name="Dashboard" icon="LayoutDashboard" />
+    <item name="Reports" icon="FileText" />
+    <item name="Real-Time" icon="Clock" />
+  </item>
+  <item name="E-commerce" icon="ShoppingCart">
+    <item name="Orders" icon="Package" />
+    <item name="Products" icon="Box" />
+    <item name="Customers" icon="Users" />
+  </item>
+  <item name="Settings" icon="Settings">
+    <item name="Profile" icon="User" />
+    <item name="Billing" icon="CreditCard" />
+    <item name="Integrations" icon="Plug" />
+  </item>
+  <item name="Help" icon="HelpCircle" />
+</menu>
